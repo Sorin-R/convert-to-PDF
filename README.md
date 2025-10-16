@@ -100,7 +100,7 @@ Then install **Pandoc** (used for `.md`, `.rtf`, and `.odt` document support):
 Create your project folder like this:
 
 ```
-image-to-pdf/
+convert-to-pdf/
 ├── convert_to_pdf.py
 ├── img/
 │   ├── photo1.jpg
@@ -128,12 +128,12 @@ image-to-pdf/
 
    **Windows:**
    ```bash
-   cd "C:\path\to\image-to-pdf"
+   cd "C:\path\to\convert-to-pdf"
    ```
 
    **macOS / Linux:**
    ```bash
-   cd "/path/to/image-to-pdf"
+   cd "/path/to/convert-to-pdf"
    ```
 
 2. Run the script:
